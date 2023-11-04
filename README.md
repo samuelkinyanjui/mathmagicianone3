@@ -29,7 +29,7 @@
 
 # 📖 Math Magician: setup project<a name="about-project"></a>
 
-**Math magician** is developed in React, CSS, JavaScript, and Es 6 modules,webback
+is developed in React, CSS, JavaScript, and Es 6 modules,webback
 
 ## 🛠 Built With <a name="built-with"></a>
 React and JSX
@@ -58,7 +58,7 @@ In order to run this project, you need:
 ### Setup
 
 Clone this repository to your desired folder
-https://github.com/samuelkinyanjui/mathmagician
+https://github.com/samuelkinyanjui/mathmagicianone3
 
 
 ### Install
@@ -121,7 +121,7 @@ Project can be deployed by using the windows ,linux servers.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/samuelkinyanjui/mathmagician/issues).
+Feel free to check the [issues page](https://github.com/samuelkinyanjui/mathmagicianone3/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -1,21 +1,6 @@
-export function Calculate() {
-  return (
-    <>
-      <ButtonGroup />
-    </>
+import UserInput from './UserInput';
 
-  );
-}
-
-function UserInput() {
-  return (
-    <div className="result">
-      0
-    </div>
-  );
-}
-
-export function ButtonGroup() {
+const buttons = function createbuttons() {
   return (
     <>
       <form>
@@ -49,4 +34,6 @@ export function ButtonGroup() {
       </form>
     </>
   );
-}
+};
+
+export default buttons;
